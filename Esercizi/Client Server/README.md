@@ -1,0 +1,1 @@
+Esempio di applicazione Client Server con 1 un solo Client ed un Server, dove il Client e Server si scambiano linee di testo, ed inoltre la comunicazione avviene una sola volta e mai più

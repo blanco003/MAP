@@ -1,0 +1,1 @@
+Ordinamento tramite l'interafaccia **Comparable**

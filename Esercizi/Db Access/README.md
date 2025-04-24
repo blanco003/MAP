@@ -1,0 +1,1 @@
+Esempio di connessione ad un database mysql ed esecuzione di una query

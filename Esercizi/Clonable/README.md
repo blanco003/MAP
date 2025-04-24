@@ -1,0 +1,1 @@
+Interfaccia **Clonable** usata per fare deep copy degli oggetti.

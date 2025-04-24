@@ -1,0 +1,1 @@
+Esempio di Applicazione Client Server, dove Client e Server si scambiano linee di testo, e con Server Multithreading, ovvero capace di gestire simultaneamente più richieste da Client diversi grazie ai Thread
